@@ -1,6 +1,6 @@
 # My Personal Website
 
-This repository contains the source code for my personal website, hosted at [msundarv.com](https://msundarv.com).
+This repository contains the source code for my personal website, hosted at [msundarv.com](http://msundarv.com).
 
 ## 📫 Find Me Online
 - [Link](http://msundarv.com/) to my personal website 🏠
